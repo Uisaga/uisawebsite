@@ -1,21 +1,21 @@
 var deadline = new Date(Date.parse(new Date(2017, 11-1, 18, 17, 0, 0, 0)));
 
 var teams = [
-    {"pic":"assets/data/teams/qurbani2.png", "teamName":"GT Qurbani", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/satrangi.png", "teamName":"ATL Satrangi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/gatoradaa.png", "teamName":"Gator Adaa", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/tanishq.png", "teamName":"ATL Tanishq", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/qurbani2.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/satrangi.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/gatoradaa.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/tanishq.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
 
-    {"pic":"assets/data/teams/jazba.png", "teamName":"GT Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/talwar.png", "teamName":"UGA Talwar", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/karma.png", "teamName":"Emory Karma", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/vanderbilt.png", "teamName":"Vanderbilt Bhangradores", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/jazba.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/talwar.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/karma.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/vanderbilt.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
 
-    {"pic":"assets/data/teams/saraas.png", "teamName":"Emory SaRaas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/raas.png", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/piratesraas.png", "teamName":"Pirate Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/saraas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/raas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/piratesraas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
 
-    {"pic":"assets/data/teams/taaltadka.png", "teamName":"Taal Tadka", "category":"Exhibition", "facebookLink": "https://www.facebook.com/"}
+    {"pic":"assets/data/teams/taaltadka.png", "teamName":"TBD", "category":"Exhibition", "facebookLink": "https://www.facebook.com/"}
 ];
 
 
@@ -27,37 +27,28 @@ var sponsors = [
 ];
 
 var board = [
-    {"pic":"assets/data/board/UISA-42.jpg", "boardName":"Neeraja Sarda", "boardTitle": "President"},
-    {"pic":"assets/data/board/UISA-6.jpg", "boardName":"Parth Patel", "boardTitle": "President"},
-    {"pic":"assets/data/board/UISA-47.jpg", "boardName":"Maitri Patel", "boardTitle": "VP Operations"},
-    {"pic":"assets/data/board/UISA-9.jpg", "boardName":"Khushboo Sarda", "boardTitle": "VP Logistics"},
-    {"pic":"assets/data/board/UISA-16.jpg", "boardName":"Keshav Raghavendran", "boardTitle": "VP Finance"},
-    {"pic":"assets/data/board/UISA-18.jpg", "boardName":"Saloni Doshi", "boardTitle": "VP Marketing"},
-    {"pic":"assets/data/board/UISA-12.jpg", "boardName":"Millie Bhatia", "boardTitle": "VP Social"},
-    {"pic":"assets/data/board/UISA-37.jpg", "boardName":"Shivani Vasudev", "boardTitle": "Registration"},
-    {"pic":"assets/data/board/UISA-31.jpg", "boardName":"Sunidhi Ramesh", "boardTitle": "Registration"},
-    {"pic":"assets/data/board/UISA-29.jpg", "boardName":"Anum Jiwani", "boardTitle": "Liaison"},
-    {"pic":"assets/data/board/UISA-3.jpg", "boardName":"Mayank Gandhi", "boardTitle": "Liaison"},
-    {"pic":"assets/data/board/UISA-7.jpg", "boardName":"Shivam Patel", "boardTitle": "Hospitality"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Prerak Joshi", "boardTitle": "Hospitality"},
-    {"pic":"assets/data/board/UISA-22.jpg", "boardName":"Charmi Patel", "boardTitle": "Judges"},
-    {"pic":"assets/data/board/UISA-5.jpg", "boardName":"Parth Patel", "boardTitle": "Judges"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Charu Thomas", "boardTitle": "Sponsorship"},
-    {"pic":"assets/data/board/UISA-10.jpg", "boardName":"Deepak	Aaron", "boardTitle": "Sponsorship"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Varun Ballari", "boardTitle": "Webmaster"},
-    {"pic":"assets/data/board/UISA-11.jpg", "boardName":"Viral Shah", "boardTitle": "Graphic Designer"},
-    {"pic":"assets/data/board/UISA-51.jpg", "boardName":"Yagnik	Tadavarthi", "boardTitle": "Photo/Video"},
-    {"pic":"assets/data/board/UISA-36.jpg", "boardName":"Pearly	Pandya", "boardTitle": "Marketing"},
-    {"pic":"assets/data/board/UISA-27.jpg", "boardName":"Nikita	Bawa", "boardTitle": "Marketing"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Arti Patel", "boardTitle": "Arts & Decor"},
-    {"pic":"assets/data/board/UISA-39.jpg", "boardName":"Dhanusha Subramani", "boardTitle": "Arts & Decor"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Manali	Desai", "boardTitle": "Arts & Decor"},
-    {"pic":"assets/data/board/UISA-20.jpg", "boardName":"Aliya Abdulla", "boardTitle": "Philanthropy"},
-    {"pic":"assets/data/board/UISA-24.jpg", "boardName":"Ankita	Verma", "boardTitle": "Philanthropy"},
-    {"pic":"assets/data/board/UISA-34.jpg", "boardName":"Vinny Kapil", "boardTitle": "Mixer"},
-    {"pic":"assets/data/board/UISA-43.jpg", "boardName":"Vamsi Reddy", "boardTitle": "Mixer"},
-    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Shreya	Jain", "boardTitle": "Mixer"},
-    {"pic":"assets/data/board/UISA-8.jpg", "boardName":"Rohit Devulapalli", "boardTitle": "Afterparty"},
-    {"pic":"assets/data/board/UISA-15.jpg", "boardName":"Joel Joseph", "boardTitle": "Afterparty"},
-    {"pic":"assets/data/board/UISA-2.jpg", "boardName":"Wiqas Nassar", "boardTitle": "Music"}
+    {"pic":"assets/data/board/UISA-42.jpg", "boardName":"Keshav Raghavendran", "boardTitle": "President"},
+    {"pic":"assets/data/board/UISA-6.jpg", "boardName":"Sunidhi Ramesh", "boardTitle": "President"},
+    {"pic":"assets/data/board/UISA-47.jpg", "boardName":"Vinny Kapil", "boardTitle": "Events Committee"},
+    {"pic":"assets/data/board/UISA-9.jpg", "boardName":"Saamiya Basharath", "boardTitle": "Events Committee"},
+    {"pic":"assets/data/board/UISA-16.jpg", "boardName":"Rohit Devulapalli", "boardTitle": "Events Committee"},
+    {"pic":"assets/data/board/UISA-18.jpg", "boardName":"Usha Reddy", "boardTitle": "Events Committee"},
+    {"pic":"assets/data/board/UISA-12.jpg", "boardName":"Pearly Pandya", "boardTitle": "Marketing Committee"},
+    {"pic":"assets/data/board/UISA-37.jpg", "boardName":"Vishwa Shah", "boardTitle": "Marketing Committee"},
+    {"pic":"assets/data/board/UISA-31.jpg", "boardName":"Shriya Sharma", "boardTitle": "Marketing Committee"},
+    {"pic":"assets/data/board/UISA-29.jpg", "boardName":"Geeta Kuntawala", "boardTitle": "Registration Chair"},
+    {"pic":"assets/data/board/UISA-3.jpg", "boardName":"Wiqas Nassar", "boardTitle": "Registration Chair"},
+    {"pic":"assets/data/board/UISA-7.jpg", "boardName":"Ahiliya Nat", "boardTitle": "Finance Chair"},
+    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Shawn Reginald", "boardTitle": "Finance Chair"},
+    {"pic":"assets/data/board/UISA-22.jpg", "boardName":"Sonal Kapoor", "boardTitle": "Outreach Committee"},
+    {"pic":"assets/data/board/UISA-5.jpg", "boardName":"Dhanusha Subramani", "boardTitle": "Outreach Committee"},
+    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Nikhil Dhanda", "boardTitle": "Outreach Committee"},
+    {"pic":"assets/data/board/UISA-10.jpg", "boardName":"Hithardhi Duggireddy", "boardTitle": "Outreach Committee"},
+    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Namrata Buxani", "boardTitle": "Head Liaison"},
+    {"pic":"assets/data/board/UISA-11.jpg", "boardName":"Simran Gupta", "boardTitle": "Head Liaison"},
+    {"pic":"assets/data/board/UISA-51.jpg", "boardName":"Shahwaiz Nassar", "boardTitle": "Hospitality Chair"},
+    {"pic":"assets/data/board/UISA-36.jpg", "boardName":"Akshitha Adiyaman", "boardTitle": "Hospitality Chair"},
+    {"pic":"assets/data/board/UISA-27.jpg", "boardName":"Ankita Verma", "boardTitle": "Logistics Chair"},
+    {"pic":"assets/data/board/UISA-0.jpg", "boardName":"Aekta Chowksey", "boardTitle": "Logistics Chair"},
+   
 ];
