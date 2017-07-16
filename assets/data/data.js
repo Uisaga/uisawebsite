@@ -27,7 +27,7 @@ var sponsors = [
 ];
 
 var board = [
-    {"pic":"assets/data/board/UISA-42.jpg", "boardName":"Keshav Raghavendran", "boardTitle": "President"},
+    {"pic":"assets/data/board/Keshav Raghavendran_President.jpg", "boardName":"Keshav Raghavendran", "boardTitle": "President"},
     {"pic":"assets/data/board/UISA-6.jpg", "boardName":"Sunidhi Ramesh", "boardTitle": "President"},
     {"pic":"assets/data/board/UISA-47.jpg", "boardName":"Vinny Kapil", "boardTitle": "Events Committee"},
     {"pic":"assets/data/board/UISA-9.jpg", "boardName":"Saamiya Basharath", "boardTitle": "Events Committee"},
