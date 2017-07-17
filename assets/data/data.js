@@ -37,9 +37,9 @@ var board = [
     {"pic":"assets/data/board/VishwaShah_Marketing.jpg", "boardName":"Vishwa Shah", "boardTitle": "Marketing Committee"},
     {"pic":"assets/data/board/ShriyaSharma_Marketing.jpg", "boardName":"Shriya Sharma", "boardTitle": "Marketing Committee"},
     {"pic":"assets/data/board/GeetaKuntawala_Registration.jpg", "boardName":"Geeta Kuntawala", "boardTitle": "Registration Chair"},
-    {"pic":"assets/data/board/WiqasNassar_Registration.jpg", "boardName":"Wiqas Nassar", "boardTitle": "Registration Chair"},
-    {"pic":"assets/data/board/Ahiliya Nat_Finance.jpg", "boardName":"Ahiliya Nat", "boardTitle": "Finance Chair"},
-    {"pic":"assets/data/board/ShawnReginald_Finance.jpg", "boardName":"Shawn Reginald", "boardTitle": "Finance Chair"},
+    {"pic":"assets/data/board/WiqasNassar_Registration.png", "boardName":"Wiqas Nassar", "boardTitle": "Registration Chair"},
+    {"pic":"assets/data/board/AhiliyaNat_Finance.jpg", "boardName":"Ahiliya Nat", "boardTitle": "Finance Chair"},
+    {"pic":"assets/data/board/ShawnReginauld_Finance.jpg", "boardName":"Shawn Reginald", "boardTitle": "Finance Chair"},
     {"pic":"assets/data/board/SonalKapoor_Outreach.jpg", "boardName":"Sonal Kapoor", "boardTitle": "Outreach Committee"},
     {"pic":"assets/data/board/DhanushaSubramani_Outreach.jpg", "boardName":"Dhanusha Subramani", "boardTitle": "Outreach Committee"},
     {"pic":"assets/data/board/NikhilDhanda_Outreach.jpg", "boardName":"Nikhil Dhanda", "boardTitle": "Outreach Committee"},
@@ -48,7 +48,7 @@ var board = [
     {"pic":"assets/data/board/SimranGupta_HeadLiaison.jpg", "boardName":"Simran Gupta", "boardTitle": "Head Liaison"},
     {"pic":"assets/data/board/ShahwaizNassar_Hospitality.jpg", "boardName":"Shahwaiz Nassar", "boardTitle": "Hospitality Chair"},
     {"pic":"assets/data/board/AkshithaAdiyaman_Hospitality.jpg", "boardName":"Akshitha Adiyaman", "boardTitle": "Hospitality Chair"},
-    {"pic":"assets/data/board/AnkitaVerma_Logistics(1).jpg", "boardName":"Ankita Verma", "boardTitle": "Logistics Chair"},
+    {"pic":"assets/data/board/AnkitaVerma_Logistics.jpg", "boardName":"Ankita Verma", "boardTitle": "Logistics Chair"},
     {"pic":"assets/data/board/AektaChowksey_Logistics.jpg", "boardName":"Aekta Chowksey", "boardTitle": "Logistics Chair"},
    
 ];
