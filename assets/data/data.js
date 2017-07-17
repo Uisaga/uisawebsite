@@ -48,7 +48,7 @@ var board = [
     {"pic":"assets/data/board/Simran Gupta_Head Liaison.jpg", "boardName":"Simran Gupta", "boardTitle": "Head Liaison"},
     {"pic":"assets/data/board/Shahwaiz Nassar_Hospitality.jpg", "boardName":"Shahwaiz Nassar", "boardTitle": "Hospitality Chair"},
     {"pic":"assets/data/board/Akshitha Adiyaman_Hospitality.jpg", "boardName":"Akshitha Adiyaman", "boardTitle": "Hospitality Chair"},
-    {"pic":"assets/data/board/Ankita Verma_Logistics.jpg", "boardName":"Ankita Verma", "boardTitle": "Logistics Chair"},
+    {"pic":"assets/data/board/Ankita Verma_Logistics(1).jpg", "boardName":"Ankita Verma", "boardTitle": "Logistics Chair"},
     {"pic":"assets/data/board/Aekta Chowksey_Logistics.jpg", "boardName":"Aekta Chowksey", "boardTitle": "Logistics Chair"},
    
 ];
