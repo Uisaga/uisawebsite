@@ -1,21 +1,23 @@
 var deadline = new Date(Date.parse(new Date(2017, 11-1, 18, 17, 0, 0, 0)));
 
 var teams = [
-    {"pic":"assets/data/teams/qurbani2.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/satrangi.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/gatoradaa.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/tanishq.png", "teamName":"TBD", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/ATL Insaafi.png", "teamName":"ATL Insaafi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/ATLInsaafi/"},
+    {"pic":"assets/data/teams/Adaa.jpg", "teamName":"Gator Adaa", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/gatoradaa/"},
+    {"pic":"assets/data/teams/Champa.png", "teamName":"Champa and Chameli", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/Champa-Chameli-340279559423050/"},
+    {"pic":"assets/data/teams/QCI.jpg", "teamName":"Queen City Ishaare", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/QueenCityIshaare/"},
+    {"pic":"assets/data/teams/Saazish.jpg", "teamName":"Georgia Saazish", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/Saazishdance/"},
+    {"pic":"assets/data/teams/Tanishq.jpg", "teamName":"ATL Tanishq", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/atltanishq/"},
+    {"pic":"assets/data/teams/UGA.png", "teamName":"UGA Asura", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UGAAsura/"},
 
-    {"pic":"assets/data/teams/jazba.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/talwar.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/karma.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/vanderbilt.png", "teamName":"TBD", "category":"Bhangra", "facebookLink": "https://www.facebook.com/"},
+    {"pic":"assets/data/teams/BBB.jpeg", "teamName":"Birmingham Blazin Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/Bhams-Blazin-Bhangra-549903141756697/"},
+    {"pic":"assets/data/teams/GTB.png", "teamName":"Georgia Tech Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/GTBhangra/"},
+   
+    
+    {"pic":"assets/data/teams/ECU.png", "teamName":"ECU Pirate Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/ecuraas/"},
+    {"pic":"assets/data/teams/RR.JPG", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/GTRamblinRaas/?ref=br_rs"},
+    {"pic":"assets/data/teams/Vandy.JPG", "teamName":"Vanderbuilt Raas", "category":"Garba Raas", "facebookLink": "https://https://www.facebook.com/vandyraas/"},
 
-    {"pic":"assets/data/teams/saraas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/raas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
-    {"pic":"assets/data/teams/piratesraas.png", "teamName":"TBD", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/"},
-
-    {"pic":"assets/data/teams/taaltadka.png", "teamName":"TBD", "category":"Exhibition", "facebookLink": "https://www.facebook.com/"}
+    {"pic":"assets/data/teams/Suri.jpg", "teamName":"Emory Suri", "category":"Exhibition", "facebookLink": "https://www.facebook.com/suriemory/"}
 ];
 
 
