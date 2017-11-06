@@ -13,7 +13,7 @@ var teams = [
     {"pic":"assets/data/teams/GTB.png", "teamName":"Georgia Tech Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/GTBhangra/"},
    
     
-    {"pic":"assets/data/teams/ECU.png", "teamName":"ECU Pirate Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/ecuraas/"},
+    {"pic":"assets/data/teams/ECU.png", "teamName":"ECU Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/ecuraas/"},
     {"pic":"assets/data/teams/RR.JPG", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/GTRamblinRaas/?ref=br_rs"},
     {"pic":"assets/data/teams/Vandy.JPG", "teamName":"Vanderbuilt Raas", "category":"Garba Raas", "facebookLink": "https://https://www.facebook.com/vandyraas/"},
 
