@@ -1,7 +1,7 @@
 var deadline = new Date(Date.parse(new Date(2017, 11-1, 18, 17, 0, 0, 0)));
 
 var teams = [
-    {"pic":"assets/data/teams/ATL Insaafi.png", "teamName":"ATL Insaafi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/ATLInsaafi/"},
+    {"pic":"assets/data/teams/Insaafi.png", "teamName":"ATL Insaafi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/ATLInsaafi/"},
     {"pic":"assets/data/teams/Adaa.jpg", "teamName":"Gator Adaa", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/gatoradaa/"},
     {"pic":"assets/data/teams/Champa.png", "teamName":"Champa and Chameli", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/Champa-Chameli-340279559423050/"},
     {"pic":"assets/data/teams/QCI.jpg", "teamName":"Queen City Ishaare", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/QueenCityIshaare/"},
