@@ -1,23 +1,23 @@
-var deadline = new Date(Date.parse(new Date(2017, 11-1, 18, 17, 0, 0, 0)));
+var deadline = new Date(Date.parse(new Date(2018, 11-1, 18, 03, 0, 0, 0)));
 
 var teams = [
-    {"pic":"assets/data/teams/Insaafi.png", "teamName":"ATL Insaafi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/ATLInsaafi/"},
-    {"pic":"assets/data/teams/Adaa.jpg", "teamName":"Gator Adaa", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/gatoradaa/"},
-    {"pic":"assets/data/teams/Champa.png", "teamName":"Champa and Chameli", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/Champa-Chameli-340279559423050/"},
-    {"pic":"assets/data/teams/QCI.jpg", "teamName":"Queen City Ishaare", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/QueenCityIshaare/"},
-    {"pic":"assets/data/teams/Saazish.jpg", "teamName":"Georgia Saazish", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/Saazishdance/"},
-    {"pic":"assets/data/teams/Tanishq.jpg", "teamName":"ATL Tanishq", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/atltanishq/"},
-    {"pic":"assets/data/teams/UGA.png", "teamName":"UGA Asura", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UGAAsura/"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
 
-    {"pic":"assets/data/teams/BBB.jpeg", "teamName":"Birmingham Blazin Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/Bhams-Blazin-Bhangra-549903141756697/"},
-    {"pic":"assets/data/teams/GTB.png", "teamName":"Georgia Tech Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/GTBhangra/"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
    
     
-    {"pic":"assets/data/teams/ECU.png", "teamName":"ECU Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/ecuraas/"},
-    {"pic":"assets/data/teams/RR.JPG", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/GTRamblinRaas/?ref=br_rs"},
-    {"pic":"assets/data/teams/Vandy.JPG", "teamName":"Vanderbuilt Raas", "category":"Garba Raas", "facebookLink": "https://https://www.facebook.com/vandyraas/"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
 
-    {"pic":"assets/data/teams/Suri.jpg", "teamName":"Emory Suri", "category":"Exhibition", "facebookLink": "https://www.facebook.com/suriemory/"}
+    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Exhibition", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"}
 ];
 
 
