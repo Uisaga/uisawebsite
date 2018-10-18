@@ -14,7 +14,7 @@ var teams = [
    
     
     {"pic":"assets/data/teams/ECU.png", "teamName":"ECU Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/ecuraas/"},
-    {"pic":"assets/data/teams/ESP.jpg", "teamName":"Emory SaRass", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/emorysaraas1"},
+    {"pic":"assets/data/teams/ESR.jpg", "teamName":"Emory SaRass", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/emorysaraas1"},
     {"pic":"assets/data/teams/GTR.jpg", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/GTRamblinRaas/"},
 
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Exhibition", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"}
