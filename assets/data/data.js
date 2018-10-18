@@ -11,7 +11,7 @@ var teams = [
     {"pic":"assets/data/teams/BBB.png", "teamName":"Bham's Blazin Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
 
     {"pic":"assets/data/teams/CCB.png", "teamName":"Classic City Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
-    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/EKB.jpeg", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
    
     
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
