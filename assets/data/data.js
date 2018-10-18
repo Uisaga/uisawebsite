@@ -5,7 +5,7 @@ var teams = [
     {"pic":"assets/data/teams/ASU.png", "teamName":"ASU Andaaz", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/asuandaaz/"},
     {"pic":"assets/data/teams/SAT.png", "teamName":"ATL Satrangi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/TAN.png", "teamName":"ATL Tanishq", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
-    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/SAZ.png", "teamName":"Georgia Saazish", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
