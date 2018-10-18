@@ -8,7 +8,7 @@ var teams = [
     {"pic":"assets/data/teams/SAZ.png", "teamName":"Georgia Saazish", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/Q.png", "teamName":"Georgia Tech Qurbani", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/QCI.png", "teamName":"Queen City Ishaare", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
-    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/BBB.png", "teamName":"Bham's Blazin Bhangra", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
 
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bhangra", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
