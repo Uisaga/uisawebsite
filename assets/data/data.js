@@ -4,7 +4,7 @@ var deadline = new Date(Date.parse(new Date(2018, 11-1, 03, 18, 0, 0, 0)));
 var teams = [
     {"pic":"assets/data/teams/ASU.png", "teamName":"ASU Andaaz", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/asuandaaz/"},
     {"pic":"assets/data/teams/SAT.png", "teamName":"ATL Satrangi", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
-    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
+    {"pic":"assets/data/teams/TAN.png", "teamName":"ATL Tanishq", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Bollywood Fusion", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
