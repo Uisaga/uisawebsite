@@ -18,7 +18,7 @@ var teams = [
     {"pic":"assets/data/teams/ESR.jpg", "teamName":"Emory SaRaas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
     {"pic":"assets/data/teams/GTR.jpg", "teamName":"GT Ramblin' Raas", "category":"Garba Raas", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"},
 
-    {"pic":"assets/data/teams/58889568bc2fc2ef3a1860bc.png", "teamName":"Coming Soon", "category":"Exhibition", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"}
+    {"pic":"assets/data/teams/SAV.png", "teamName":"Emory Savera", "category":"Exhibition", "facebookLink": "https://www.facebook.com/UISAOfficial/?ref=aymt_homepage_panel"}
 ];
 
 var sponsors = [
